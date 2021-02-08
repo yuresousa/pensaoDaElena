@@ -459,6 +459,11 @@ mark,
   font-size: 90%;
   text-transform: uppercase;
 }
+.color-brand{
+  background-color:#290628;
+}
+
+
 
 .blockquote {
   margin-bottom: 1rem;
